@@ -2,7 +2,7 @@
 
 ## Background
 
-Create a table dynamically based upon a [provided dataset](site_files/static/readme/data.js).
+Create a table dynamically based upon a [provided dataset](static/readme/data.js).
 Users need the ability to filter the table data for specific values.
 
 ## Requirements
@@ -27,4 +27,4 @@ Users need the ability to filter the table data for specific values.
 
 ### Screenshot
 
-![Screenshot - large screen](site_files/static/readme/screenshot.png)
+![Screenshot - large screen](static/readme/screenshot.png)
