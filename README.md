@@ -2,7 +2,7 @@
 
 ## Background
 
-Create a table dynamically based upon a provided dataset[dataset we provide](site_files/static/readme/data.js).
+Create a table dynamically based upon a [provided dataset](site_files/static/readme/data.js).
 Users need the ability to filter the table data for specific values.
 
 ## Requirements
@@ -16,7 +16,6 @@ Users need the ability to filter the table data for specific values.
 
 ### Considerations
 
-* The dataset can be found here: [UFO Sightings Data](StarterCode/static/js/data.js)
 * Only pure JavaScript, HTML, CSS, and D3.js can be used.
 * Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns instead of just the date:
 
